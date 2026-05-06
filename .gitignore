@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.local
+.env.*.local
+
+editor_overrides.json
+project_chat.json
+build_error.txt
+chat_build_error.txt
+css_validation_error.txt
+css_validation_warning_after_fix.txt
+
+*.log
+uploads/
