@@ -44,7 +44,7 @@ The app allows users to search for weather by city, view forecast data, switch l
 
 ![History page](./screenshots/history-page.png)
 
-![Main weather dark page](./screenshots/main-weather-dark)
+![Main weather dark page](./screenshots/main-weather-dark.png)
 
 ## Installation
 
